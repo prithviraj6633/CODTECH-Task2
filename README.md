@@ -3,11 +3,11 @@
 **Domain**=MAchine Learning 
 
 **Project**: Analysis on Movie Reviews
-##Introduction
+### Introduction
 Objective
 To analyze movie reviews to gain insights into the general sentiment of the reviews, identify common themes, and understand how various factors (such as movie genre, cast, and release year) influence the sentiment.
 
-Scope
+### Scope
 Collect and preprocess movie review data.
 Perform sentiment analysis to classify reviews as positive or negative.
 Analyze patterns and trends in the reviews based on various factors.
