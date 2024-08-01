@@ -1,6 +1,6 @@
-**Name** = Prithviraj Chavan
-**Company**=CODTECH IT SOLUTIONS
-**Domain**=MAchine Learning 
+## **Name** = Prithviraj Chavan
+## **Company**=CODTECH IT SOLUTIONS
+## **Domain**=MAchine Learning 
 
 **Project**: Analysis on Movie Reviews
 ### Introduction
